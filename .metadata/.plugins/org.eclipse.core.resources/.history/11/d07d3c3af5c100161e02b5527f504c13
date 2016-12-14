@@ -1,0 +1,12 @@
+package p02;
+java.util.Random;
+public class Player extends Cha{
+
+	@Override
+	public void attack() {
+		
+		
+	}
+	
+}
+

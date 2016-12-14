@@ -1,0 +1,15 @@
+package p01;
+
+public class Triangle  extends twoDImenShape{
+int width,height;
+
+public Triangle(int width, int heightl) {
+
+	this.width = width;
+	this.height = heightl;
+}
+public float getArea(){
+	return width-height*0.5f;
+	
+}
+}
